@@ -1,11 +1,7 @@
-{<div align="center">
-  <img src="./static/images/logo.png" alt=""/>
-  <h1 align="center">IPTV-API</h1>
-</div>}
 
-<div align="center">自定义的接口更新项目，生成可用的结果』</div>
+<div align="center">自定义的接口更新项目，生成可用的结果』/div>
 <br>
-<p align="center">
+{<p align="center">
   <a href="https://github.com/Guovin/iptv-api/releases/latest">
     <img src="https://img.shields.io/github/v/release/guovin/iptv-api" />
   </a>
@@ -21,7 +17,7 @@
   <a href="https://github.com/Guovin/iptv-api/fork">
     <img src="https://img.shields.io/github/forks/guovin/iptv-api" />
   </a>
-</p>
+</p>}
 
 [English](./README_en.md) | 中文
 
