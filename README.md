@@ -279,7 +279,7 @@ docker run -d -p 8000:8000 guovern/iptv-api:lite
 
 | 支付宝                                  | 微信                                      |
 |--------------------------------------|-----------------------------------------|
-|  |mywxzsm.jpg|
+|  |![微信赞赏码](https://raw.githubusercontent.com/gzj7003/box/main/mywxzsm.jpg)|
 
 ## 关注
 
