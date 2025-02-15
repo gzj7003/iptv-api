@@ -1,7 +1,7 @@
-<div align="center">
+{<div align="center">
   <img src="./static/images/logo.png" alt=""/>
   <h1 align="center">IPTV-API</h1>
-</div>
+</div>}
 
 <div align="center">自定义的接口更新项目，生成可用的结果』</div>
 <br>
@@ -24,8 +24,6 @@
 </p>
 
 [English](./README_en.md) | 中文
-
-✨💻[IPTV-Web](https://github.com/Guovin/iptv-web)：IPTV电视直播源管理平台，支持在线播放等功能，开发中...
 
 - [✅ 特点](#特点)
 - [🔗 最新结果](#最新结果)
