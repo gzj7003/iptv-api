@@ -38,48 +38,6 @@
 
 - [fanmingming/live](https://github.com/fanmingming/live)
 
-## 特点
-
-- ✅ 自定义模板，生成您想要的频道
-- ✅ 支持多种获取源方式：本地源、组播源、酒店源、订阅源、关键字搜索
-- ✅ 接口测速验效，获取延迟、速率、分辨率，过滤无效接口
-- ✅ 偏好设置：IPv4、IPv6、接口来源排序优先级与数量配置、接口白名单
-- ✅ 支持多种运行方式：工作流、命令行、GUI 软件、Docker(amd64/arm64/arm v7)
-- ✨ 更多功能请见[配置参数](#配置)
-
-## 最新结果
-
-- 接口源：
-
-```bash
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
-```
-
-```bash
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
-```
-
-或
-
-```bash
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
-```
-
-```bash
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt
-```
-
-- 数据源：
-
-```bash
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/source.json
-```
-
-或
-
-```bash
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/source.json
-```
 
 ## 配置
 
